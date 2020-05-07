@@ -1,2 +1,2 @@
 # praktika-template
-Lightweight Template für Praktikumsabgaben
+Lightweight template for exercise submissions
