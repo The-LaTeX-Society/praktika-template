@@ -1,0 +1,17 @@
+\documentclass[%
+	paper=A4,%					Page size
+	fontsize=12pt,%				Default font size
+	parskip=half,%				Space between paragraphs
+	twoside=true,%				Two sided style
+	listof=entryprefix,%		Enable prefixes (e.g. 1 Name -> Fig. 1: Name) for list of figures / tables
+	ngerman%					German language pack (e.g. Table of Contents -> Inhaltsverzeichnis)
+]{scrartcl}
+
+\include{metadata}
+\include{format}
+
+\begin{document}
+	\input{title}
+	
+	\input{content}
+\end{document}

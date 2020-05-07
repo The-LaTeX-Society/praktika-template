@@ -1,0 +1,26 @@
+# Ignore these files
+*.lnk
+*.pdf
+*.aux
+*.acn
+*.ist
+*.blg
+*.glo
+*.bbl
+*.out
+*.gz
+*.lof
+*.log
+*.lot
+*.toc
+*.idx
+*.synctex(busy)
+*.lod
+*.fdb_latexmk
+*.fls
+*.ilg
+*.ind
+*.lol
+*.nav
+*.snm
+*.vrb
